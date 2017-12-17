@@ -9,3 +9,5 @@ Utilizes Python and OpenCV in order to find user-defined color ranges straight f
 * [Numpy](https://www.scipy.org/install.html)
 * [MSS](https://pypi.python.org/pypi/mss/3.1.1)
 * [PIL](https://pypi.python.org/pypi/PIL/)
+
+![Preview](insomvic.com/github/opencv_colour_calibration_and_detection/preview.jpg)
