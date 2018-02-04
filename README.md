@@ -12,4 +12,4 @@ Utilizes Python and OpenCV in order to find user-defined color ranges straight f
 
 ## Preview
 
-![Preview](http://insomvic.com/github/opencv_colour_calibration_and_detection/preview.jpg)
+![Preview01](http://insomvic.com/github/opencv_colour_calibration_and_detection/preview_01.jpg)
